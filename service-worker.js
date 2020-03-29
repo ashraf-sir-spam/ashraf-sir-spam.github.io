@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.88968bf6191eead936d88e3515d3dd39.js"
+  "/precache-manifest.f0d00d4529f9b8c736060eabe36b1e79.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "spam"});
